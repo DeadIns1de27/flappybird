@@ -3,6 +3,7 @@ import pygame as py
 from pygame.locals import *
 import sys
 
+# hello
 thrust = -30
 gravity = 5
 terminal = 10
